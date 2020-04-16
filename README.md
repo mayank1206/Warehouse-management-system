@@ -1,2 +1,3 @@
 # Warehouse management system
-It is not fully develop I made it just for practicing sql and netbeens
+It shopor warehouse management system which is made using java
+
